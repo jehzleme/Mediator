@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r4FA3QxxH321BgvSt8OaA7/ePcDJJu5zY8IeV6XOx/+koh1zc8jp9togG7wPGioMU8iDY/GW0XW+bp058Y5U1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.ambrust\\OneDrive - Anheuser-Busch InBev\\Documents\\PDI\\Mediator\\MediatorFromScratch\\MediatorFromScratch.S\\MediatorFromScratch.S.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
