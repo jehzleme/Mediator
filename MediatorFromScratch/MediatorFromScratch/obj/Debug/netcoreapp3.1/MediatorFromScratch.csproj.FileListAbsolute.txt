@@ -1,0 +1,5 @@
+C:\Users\jessica.ambrust\OneDrive - Anheuser-Busch InBev\Documents\PDI\Mediator\MediatorFromScratch\MediatorFromScratch\obj\Debug\netcoreapp3.1\MediatorFromScratch.csproj.AssemblyReference.cache
+C:\Users\jessica.ambrust\OneDrive - Anheuser-Busch InBev\Documents\PDI\Mediator\MediatorFromScratch\MediatorFromScratch\obj\Debug\netcoreapp3.1\MediatorFromScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.ambrust\OneDrive - Anheuser-Busch InBev\Documents\PDI\Mediator\MediatorFromScratch\MediatorFromScratch\obj\Debug\netcoreapp3.1\MediatorFromScratch.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\OneDrive - Anheuser-Busch InBev\Documents\PDI\Mediator\MediatorFromScratch\MediatorFromScratch\obj\Debug\netcoreapp3.1\MediatorFromScratch.AssemblyInfo.cs
+C:\Users\jessica.ambrust\OneDrive - Anheuser-Busch InBev\Documents\PDI\Mediator\MediatorFromScratch\MediatorFromScratch\obj\Debug\netcoreapp3.1\MediatorFromScratch.csproj.CoreCompileInputs.cache
